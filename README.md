@@ -35,3 +35,17 @@ This is the original provided notebook template.
 2. Install required libraries (if needed):
    ```python
    pip install pandas matplotlib seaborn scikit-learn
+
+
+## Notes
+All insights, visualizations, and business recommendations are documented within the notebook.  
+The dataset used is from Kaggle’s *E-commerce Customer Behavior Analysis*.
+
+---
+
+## Contact  
+For any clarifications or follow-ups:
+
+**Email:** renapurkarritika@gmail.com  
+**GitHub:** https://github.com/Rakshada1811  
+
