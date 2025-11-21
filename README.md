@@ -1,11 +1,11 @@
-# 📊 Evoastra Data Science Internship – Phase 1 Assessment  
+# Evoastra Data Science Internship – Phase 1 Assessment  
 **Author:** Rakshada Renapurkar  
 **Role:** Data Science Intern Applicant  
 **Institute:** Pune Institute of Computer Technology (PICT), Pune  
 
 ---
 
-## 📁 Repository Overview
+## Repository Overview
 This repository contains my completed work for the **Evoastra Data Science Internship (Phase 1 Assessment)**.
 
 The tasks demonstrate end-to-end data science capabilities including:
@@ -19,7 +19,7 @@ The tasks demonstrate end-to-end data science capabilities including:
 
 ---
 
-## 📌 Files Included
+## Files Included
 
 ### **1. `RakshadaRenapurkar_Evoastra_Assessment.ipynb`**
 This is my complete and final assessment notebook with all tasks answered.
@@ -29,7 +29,7 @@ This is the original provided notebook template.
 
 ---
 
-## 🚀 How to Run the Notebook
+## How to Run the Notebook
 
 1. Download the repository or open it directly in Google Colab.
 2. Install required libraries (if needed):
